@@ -1,0 +1,13 @@
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Terceiro-Exercicio\bin\Debug\netcoreapp3.1\Terceiro-Exercicio.exe
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Terceiro-Exercicio\bin\Debug\netcoreapp3.1\Terceiro-Exercicio.deps.json
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Terceiro-Exercicio\bin\Debug\netcoreapp3.1\Terceiro-Exercicio.runtimeconfig.json
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Terceiro-Exercicio\bin\Debug\netcoreapp3.1\Terceiro-Exercicio.runtimeconfig.dev.json
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Terceiro-Exercicio\bin\Debug\netcoreapp3.1\Terceiro-Exercicio.dll
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Terceiro-Exercicio\bin\Debug\netcoreapp3.1\Terceiro-Exercicio.pdb
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Terceiro-Exercicio\obj\Debug\netcoreapp3.1\Terceiro-Exercicio.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Terceiro-Exercicio\obj\Debug\netcoreapp3.1\Terceiro-Exercicio.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Terceiro-Exercicio\obj\Debug\netcoreapp3.1\Terceiro-Exercicio.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Terceiro-Exercicio\obj\Debug\netcoreapp3.1\Terceiro-Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Terceiro-Exercicio\obj\Debug\netcoreapp3.1\Terceiro-Exercicio.dll
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Terceiro-Exercicio\obj\Debug\netcoreapp3.1\Terceiro-Exercicio.pdb
+C:\Users\Cliente\Desktop\Senai\Lógica de programação\Terceiro-Exercicio\obj\Debug\netcoreapp3.1\Terceiro-Exercicio.genruntimeconfig.cache
